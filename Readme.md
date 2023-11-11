@@ -28,4 +28,11 @@ OPENAI_API_KEY=<OPENAI APIキー>
 1. Google Driveにログインします。
 2. マイドライブ直下に、 `openai.env` ファイルをアップロードします。
 
+## 利用方法
 
+1. Google Colaboratoryのページを開きます。
+    - https://colab.research.google.com/
+2. 「ファイル」「ノートブックを開く」をクリックします。
+3. GitHubから、このリポジトリの中にあるノートブックファイルを開きます。
+
+![colab github](./images/colab_github.png)
