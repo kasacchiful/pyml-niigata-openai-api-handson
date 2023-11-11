@@ -34,5 +34,6 @@ OPENAI_API_KEY=<OPENAI APIキー>
     - https://colab.research.google.com/
 2. 「ファイル」「ノートブックを開く」をクリックします。
 3. GitHubから、このリポジトリの中にあるノートブックファイルを開きます。
-
-![colab github](./images/colab_github.png)
+    ![colab github](./images/colab_github.png)
+4. ノートブックを開いた後、「ドライブにコピー」しておくと、Googleドライブに保存されます。
+    - 「マイドライブ」「Colab Notebooks」に保存されます。
